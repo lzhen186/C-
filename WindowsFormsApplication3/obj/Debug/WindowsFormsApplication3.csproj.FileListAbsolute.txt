@@ -1,0 +1,60 @@
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\未完成\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\未完成\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\未完成\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+E:\未完成\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\代码库\自己桌面应用 c#\李振 网络171\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\代码库\你的名字桌面应用 c#\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\代码库\你的名字桌面应用 c#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\代码库\你的名字桌面应用 c#\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\代码库\C# 你的名字桌面应用\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csprojResolveAssemblyReference.cache
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form2.resources
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form3.resources
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form4.resources
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+E:\代码库\C# 你的名字桌面应用\C-\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.csproj.GenerateResource.Cache
